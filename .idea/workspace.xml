@@ -1,15 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0087989-1e00-4fc2-9c75-0e5bba01db5b" name="Changes" comment="Test">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Github/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2324-Java-Project.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/opdracht/2324-Java-Project.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExamenAfsprakenCriteria.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/opdracht/ExamenAfsprakenCriteria.pdf" afterDir="false" />
+    <list default="true" id="c0087989-1e00-4fc2-9c75-0e5bba01db5b" name="Changes" comment="Organisatie van start">
+      <change afterPath="$PROJECT_DIR$/src/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Platform.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Visual/Window.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -18,13 +31,18 @@
   "associatedIndex": 6
 }]]></component>
   <component name="ProjectId" id="2h6Ut8p7oMxTq5b70Xtf1VGLaZJ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Game.executor": "Run",
+    "Application.Main.executor": "Debug",
+    "Application.Window.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -35,6 +53,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ADG\Desktop\JAVA\PlatformJumper-v0\opdracht" />
+      <recent name="C:\Users\ADG\Desktop\JAVA\PlatformJumper-v0\Github" />
+      <recent name="C:\Users\ADG\Desktop\JAVA\PlatformJumper-v0" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -51,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1716914235062</updated>
-      <workItem from="1716914236103" duration="552000" />
+      <workItem from="1716914236103" duration="3352000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <option name="closed" value="true" />
@@ -69,7 +94,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716914640812</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Organisatie van start">
+      <option name="closed" value="true" />
+      <created>1716914812691</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1716914812691</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,6 +110,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test" />
+    <MESSAGE value="Organisatie van start" />
+    <option name="LAST_COMMIT_MESSAGE" value="Organisatie van start" />
   </component>
 </project>
